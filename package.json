@@ -1,0 +1,25 @@
+{
+  "name": "utilities-node",
+  "version": "1.0.0",
+  "description": "daily utilities for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyingxian/utilities-node.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "492753097@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangyingxian/utilities-node/issues"
+  },
+  "homepage": "https://github.com/huangyingxian/utilities-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
